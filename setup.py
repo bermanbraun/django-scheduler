@@ -37,7 +37,7 @@ setup(
         'pytz>=2013.9',
         'six>=1.3.0',
         'vobject>=0.8.1c',
-        'South==0.8.4',
+        'South>=1.0',
         'django-annoying==0.7.9',
         'coverage==3.6',
     ],
